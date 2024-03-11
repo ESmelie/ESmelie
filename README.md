@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ESmelie
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning HTML and C++
